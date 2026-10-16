@@ -1,0 +1,6 @@
+{
+  "cotacoes": [
+    { "modalidade": "Econômico", "valor": 19.9, "prazo_uteis": 5, "taxas": [{ "descricao": "GRIS", "valor": 1.1 }] },
+    { "modalidade": "Expresso", "valor": 35.05, "prazo_uteis": 1, "taxas": [] }
+  ]
+}
