@@ -1,5 +1,6 @@
 {
   "name": "frete-wise",
+  "license": "SEE LICENSE IN LICENSE",
   "private": true,
   "packageManager": "pnpm@10.33.0",
   "scripts": {
